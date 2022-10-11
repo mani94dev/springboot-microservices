@@ -1,6 +1,1 @@
-# springboot-microservices-project
-
-
-The project is still in-development.
-
-
+Will create a detailed view of the project in coming days.
